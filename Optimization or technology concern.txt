@@ -1,0 +1,10 @@
+- Problem 1 :
+  If the user add the cooking bot first then create new order, the bot will not process the order.
+
+ ~ Optimization : Find out another process logic that can solve the problem. Focus on the sequences of the process.
+
+
+- Problem 2 :
+  The cooking bot's program logic can be write better. The way for the current program cannot confirm all the bot is being used.
+
+ ~ Optimization : Try to learn more concurrent coding method and make the process become better. 
